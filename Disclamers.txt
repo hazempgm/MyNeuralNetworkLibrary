@@ -1,0 +1,4 @@
+# MyNeuralNetworkLibrary
+
+This was a follow up in java of theCodingTrain videos of Neural Networks.
+There are some variations here and there but mostly all the credit goes to him.
